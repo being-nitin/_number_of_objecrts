@@ -16,3 +16,6 @@ class Abc{
         c++;
     }
 }
+/* the number of objects which you will create will be equal to the number of call of
+of a constructor in which the variable is static.
+ */
