@@ -7,6 +7,7 @@ public class Main {
     Abc obj1 = new Abc();
     Abc obj2 = new Abc();
     Abc obj3 = new Abc();
+    Abc obj4 = new Abc();
         System.out.println(Abc.c);
     }
 }
